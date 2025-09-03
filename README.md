@@ -4,7 +4,7 @@ NexMeet is a full-stack real-time video calling and chat application built using
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🔒 Secure user authentication (JWT-based)
 - 📹 Real-time video/audio conferencing
